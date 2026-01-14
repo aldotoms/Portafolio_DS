@@ -16,12 +16,33 @@ A través de un análisis exploratorio de datos y un modelo de clasificación, l
 
 ## 📂 Estructura del Repositorio
 
-* `data/`: Contiene los datasets utilizados (fuente original: [Enlace aquí]).
+* `data/`: Contiene los datasets utilizados.
 * `notebooks/`: Proceso detallado de limpieza y modelado.
 * `src/`: Scripts auxiliares de Python.
 * `docs/`: Gráficos y visualizaciones.
 
+## 📊 Reportes de Análisis
+Puedes revisar los reportes detallados en formato HTML aquí:
+* [Reporte de Análisis Exploratorio (contratos)](docs/report_contract.html)
+* [Reporte de Análisis Exploratorio (info personal)](docs/report_personal.html)
+* [Reporte de Análisis Exploratorio (telefonía)](docs/report_phone.html)
+* [Reporte de Análisis Exploratorio (internet)](docs/report_internet.html)
+
+## 📊 Reportes Interactivos
+Haz clic en los enlaces para ver los reportes en vivo:
+* [🌐 Ver Reporte EDA Interactivo](https://aldotoms.github.io/Portafolio_DS/reporte_eda.html)
+
 ## 🚀 Cómo ejecutar el proyecto
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/Portafolio_DS.git](https://github.com/tu-usuario/Portafolio_DS.git)
+   git clone [https://github.com/aldotoms/Portafolio_DS.git](https://github.com/aldotoms/Portafolio_DS.git)
+
+## 📈 Conclusiones Principales
+Hallazgo 1: Las personas con contratos anuales tienen un 50% menos de probabilidad de irse.
+
+Hallazgo 2: [Añade otro punto clave].
+
+👤 Autor
+Nombre: Aldo Tomás Orduña Fabila
+
+LinkedIn: https://www.linkedin.com/in/aldotoms/
