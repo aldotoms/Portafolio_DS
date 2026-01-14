@@ -1,5 +1,6 @@
 # --- Entornos Virtuales (MUY IMPORTANTE) ---
 venv/
+.venv/
 env/
 .env
 bin/
