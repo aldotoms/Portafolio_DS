@@ -1,0 +1,28 @@
+# --- Entornos Virtuales (MUY IMPORTANTE) ---
+venv/
+env/
+.env
+bin/
+include/
+lib/
+share/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- Archivos de Sistema ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Datos y Logs ---
+*.log
+# data/raw/*.csv  <-- Descomenta si no quieres subir archivos CSV específicos
